@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/ameen-noushad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ameenkido5412@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://ameennoushad-erp-specialist.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://ameennoushad.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ameen010&style=flat-square&color=70a5fd" alt="profile views"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Odoo+ERP+Techno-Functional+Developer;AI+%2B+LLM+Integration+Enthusiast;Python+%7C+Django+%7C+Flask+%7C+PostgreSQL;Docker+%7C+DevOps+%7C+Server+Infrastructure" alt="Typing SVG" />
@@ -153,7 +153,7 @@ print(me.motto())
 |---|---|---|
 | [**Odoo AI Bots (Orgvein)**](https://github.com/Ameen010) | Ollama, LLaMA, OpenClaw, Python | AI-powered bots integrated directly into Odoo workflows for automated business process handling |
 | [**Odoo Module Customization Suite**](https://github.com/Ameen010) | Odoo v15-19, XML, PostgreSQL | Custom modules with data migration, export/import tooling, and workflow automation across client deployments |
-| [**Personal Portfolio**](https://ameennoushad-erp-specialist.pages.dev) | HTML5, CSS3, JavaScript | Techno-functional portfolio showcasing Odoo, AI/LLM, and full-stack development work |
+| [**Personal Portfolio**](https://ameennoushad.site) | HTML5, CSS3, JavaScript | Techno-functional portfolio showcasing Odoo, AI/LLM, and full-stack development work |
 
 </div>
 
@@ -183,7 +183,7 @@ print(me.motto())
 
 <div align="center">
 
-📫 **Reach me:** [ameenkido5412@gmail.com](mailto:ameenkido5412@gmail.com) · [LinkedIn](https://linkedin.com/in/ameen-noushad) · [Portfolio](https://ameennoushad-erp-specialist.pages.dev)
+📫 **Reach me:** [ameenkido5412@gmail.com](mailto:ameenkido5412@gmail.com) · [LinkedIn](https://linkedin.com/in/ameen-noushad) · [Portfolio](https://ameennoushad.site)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
